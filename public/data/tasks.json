@@ -1,0 +1,32 @@
+{
+    "todayTasks": [
+        {
+            "id": 4,
+            "task": "Today Task 1"
+        },
+        {
+            "id": 5,
+            "task": "Today Task 2"
+        }
+    ],
+    "tomorrowTasks": [
+        {
+            "id": 6,
+            "task": "Tomorrow Task 1"
+        },
+        {
+            "id": 7,
+            "task": "Tomorrow Task 2"
+        }
+    ],
+    "thisWeekTasks": [
+        {
+            "id": 8,
+            "task": "This Week Task 1"
+        },
+        {
+            "id": 9,
+            "task": "This Week Task 2"
+        }
+    ]
+}
